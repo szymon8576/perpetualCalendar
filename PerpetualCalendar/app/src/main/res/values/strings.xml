@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Perpetual Calendar</string>
+    <string name="data_pocz_tkowa">Data początkowa</string>
+    <string name="textview">TextView</string>
+    <string name="powr_t">POWRÓT</string>
+    <string name="data_ko_cowa">Data końcowa</string>
+    <string name="example">EXAMPLE</string>
+    <string name="niedziele">NIEDZIELE</string>
+    <string name="dni_robocze">DNI ROBOCZE</string>
+
+</resources>
